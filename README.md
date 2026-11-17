@@ -6,9 +6,9 @@ QA Júnior com experiência em testes de API e de pagamentos e checkout (Pix, ca
 
 Postman · SQL · Playwright · TypeScript · Git · GitHub Actions · ClickUp
 
-## Em andamento
+## Projetos
 
-Projeto de portfólio com testes automatizados de login e checkout em Playwright e TypeScript, usando sites públicos de demonstração.
+- [saucedemo-playwright](https://github.com/renangusmao-qa/saucedemo-playwright): testes automatizados de login, inventário e checkout em Playwright e TypeScript, com Page Objects e CI no GitHub Actions.
 
 ## Contato
 
