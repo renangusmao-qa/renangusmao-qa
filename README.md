@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Renan
 
-<!--
-**renangusmao-qa/renangusmao-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Júnior com experiência em testes de API e de pagamentos e checkout (Pix, cartão, boleto). Atualmente praticando automação de testes com Playwright e TypeScript.
 
-Here are some ideas to get you started:
+## O que eu uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Postman · SQL · Playwright · TypeScript · Git · GitHub Actions · ClickUp
+
+## Em andamento
+
+Projeto de portfólio com testes automatizados de login e checkout em Playwright e TypeScript, usando sites públicos de demonstração.
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/renangusmao-qa
+- Busco vaga de QA Júnior 100% remota.
